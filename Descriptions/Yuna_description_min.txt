@@ -1,0 +1,5 @@
+Nom: YUNA
+Age: 17 ans
+Arme: Bâton
+Arme Légendaire: Nirvana
+Overdrive: Osmose

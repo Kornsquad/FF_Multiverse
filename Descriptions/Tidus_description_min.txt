@@ -1,0 +1,5 @@
+Nom: TIDUS
+Age: 17 ans
+Arme: Epée
+Arme Légendaire: Ultima
+Overdrive: Escrime

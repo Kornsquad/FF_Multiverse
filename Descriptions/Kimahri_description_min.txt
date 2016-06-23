@@ -1,0 +1,5 @@
+Nom: KIMAHRI
+Age: 25 ans
+Arme: Lance
+Arme Légendaire: Longinus
+Overdrive: Emulattak

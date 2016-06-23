@@ -1,0 +1,5 @@
+Nom: RIKKU
+Age: 15 ans
+Arme: Gantelet
+Arme Légendaire: God Hand
+Overdrive: Alchimie

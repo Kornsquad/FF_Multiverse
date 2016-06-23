@@ -1,0 +1,9 @@
+Nom: WAKKA
+Age: 24 ans
+
+Histoire: Wakka est le capitaine d'une équipe de blitzball en manque de réussite, les "Besaïd Aurochs": lui et ses partenaires n'ont jamais remporté le moindre match. Mais grâce à Tidus, cette longue série de malchance semble enfin termminée... Wakka fait partie des gardiens de Yuna; il souhaite se consacrer exclusivement à cette vocation après le Tournoi de blitzball de cette année.
+
+Arme: Ballon
+Arme des 7 Astres Antiques: World Champion
+
+Style de Combat: Wakka possède une quantité élévée de HP. Ses attaques physiques sont plus puissantes que celles de Tidus, en partilier lorsqu'elles visent des ennemis distants ou aériens. Cela s'explique par le fait qu'il utilise comme arme un ballon de blitzball (y compris contre le sennemis sous-marins).

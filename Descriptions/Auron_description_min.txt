@@ -1,0 +1,5 @@
+Nom: AURON
+Age: 35 ans
+Arme: Glaive
+Arme Légendaire: Masamune
+Overdrive: Arcanes
