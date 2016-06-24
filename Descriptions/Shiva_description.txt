@@ -1,0 +1,9 @@
+Nom: SHIVA
+
+Caractéristique Spécial: Les sorts Glacier, Glacier+ et GlacierX le soignent.
+
+Arme des 7 Astres Antiques associé: Chevalier Oignon
+
+Techniques: "Céleste" inflige des dégâts non-élémentaire à un seul ennemi et retarde sa prochaine attaque.
+
+Overdrive: "Transcendantale" inflige des dégâts de Glace à tous les ennemis.

@@ -1,0 +1,16 @@
+Nom: LES MAGUS
+
+Caractéristique Spécial: Les 3 soeurs sont indépendantes et agissent selon la réplique que vous leur adressez.
+
+Arme des 7 Astres Antiques associé: Aucune
+
+Techniques:	Maria:		"Pataplouf" inflige des dégats supérieurs à un ennemi.
+				Elle lance des sorts de guérison et de soin.
+
+		Samantha:	"Ergots de Feu" inlige des dégâts supérieurs à un ennemi.
+				Elle lance des sorts de protection.
+
+		Annabella:	"Dard-dard" inflige 15 attaques de dégats inférieurs.
+				Elle lance des sorts d'altération.
+
+Overdrive: "Delta" combine la puissance des 3 soeurs pour infliger 6 attaques avec des dégâts dévastateurs à chaque ennemi.

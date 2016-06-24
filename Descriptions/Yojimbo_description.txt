@@ -1,0 +1,11 @@
+Nom: YOJIMBO
+
+Caractéristique Spécial: Il faut payer cette Chimère (la somme d'argent définit l'attaquede Yojimbo).
+
+Arme des 7 Astres Antiques associé: Masamune
+
+Techniques:	"Daigoro" inflige des dégâts non-élémentaire à un ennemi.
+		"Kozuka" inflige des dégâts supérieurs non-élémentaire à un ennemi.
+		"Wakizashi" inflige des dégâts non-élémentaire à un ou tous les ennemis.
+
+Overdrive: "Zanmato" tue tous les ennemis.

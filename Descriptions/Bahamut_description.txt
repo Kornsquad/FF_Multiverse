@@ -1,0 +1,9 @@
+Nom: BAHAMUT
+
+Caractéristique Spécial: Attaque et défense physique élevés.
+
+Arme des 7 Astres Antiques associé: Aucune
+
+Techniques: "Pulsar" inflige des dégâts non-élémentaire à tous les ennemis mais retarde la prochaine attaque de Bahamut.
+
+Overdrive: "Méga Atonium" inflige des dégâts dévastateurs à tous les ennemis.

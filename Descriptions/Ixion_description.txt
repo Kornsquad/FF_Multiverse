@@ -1,0 +1,9 @@
+Nom: IXION
+
+Caractéristique Spécial: Les sorts Foudre, Foudre+ et FoudreX le soignent.
+
+Arme des 7 Astres Antiques associé: Longinus
+
+Techniques: "Electrodisques" inflige des dégâts non-élémentaire à un seul ennemi et annule les effets defensifs de Carapace, Blindage, Booster, Récup, Boomerang, AntiEléments, AntiFeu, AntiGlace, AntiTonnerre et AntiEau.
+
+Overdrive: "Electroflux" inflige des dégâts de Tonnerre à tous les ennemis.

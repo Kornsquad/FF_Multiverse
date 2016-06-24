@@ -1,0 +1,9 @@
+Nom: IFRIT
+
+Caractéristique Spécial: Les sorts Brasier, Brasier+ et BrasierX le soignent.
+
+Arme des 7 Astres Antiques associé: World Champion
+
+Techniques: "Magma" frappe un seul ennemi éloigné ou non de dégâts non-élémentaire.
+
+Overdrive: "Divine Comédie" inflige des dégâts de Feu à tous les ennemis.

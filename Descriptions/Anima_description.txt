@@ -1,0 +1,9 @@
+Nom: ANIMA
+
+Caractéristique Spécial: Attaques puissantes.
+
+Arme des 7 Astres Antiques associé: Aucune
+
+Techniques: "Lamento" tue un ennemi mais cette technique met longtemps à se recharger.
+
+Overdrive: "Chaos" inflige des dégâts dévastateurs à tous les ennemis.

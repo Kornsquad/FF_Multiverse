@@ -1,0 +1,11 @@
+Nom: VALEFORE
+
+Caractéristique Spécial: Vol (esquive les attaques au sol)
+
+Arme des 7 Astres Antiques associé: Nirvana
+
+Techniques: "Sonic Wing" frappe tous les ennemis et retarde leur prochaine attaque.
+
+Overdrive:	"Hurlements" inflige des dégâts non-élémentaire à tous les ennemis.
+		"Echo" (recupérablepar la suite) inflige des dégâts supérieurs non-élémentaire à tous les ennemis.
+
